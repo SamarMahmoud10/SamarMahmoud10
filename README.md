@@ -95,10 +95,18 @@ I break things on purpose, then figure out why they broke — curiosity is my fa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SamarMahmoud10&show_icons=true&theme=react&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=SamarMahmoud10&theme=react&hide_border=true" height="165"/>
+<a href="https://github.com/SamarMahmoud10">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamarMahmoud10&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="165" alt="Samar's GitHub Stats"/>
+</a>
+<a href="https://github.com/SamarMahmoud10">
+  <img src="https://streak-stats.demolab.com/?user=SamarMahmoud10&theme=radical&hide_border=true" height="165" alt="Samar's GitHub Streak"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarMahmoud10&layout=compact&theme=react&hide_border=true" height="165"/>
+<br/>
+
+<a href="https://github.com/SamarMahmoud10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarMahmoud10&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165" alt="Samar's Top Languages"/>
+</a>
 
 </div>
 
@@ -106,6 +114,6 @@ I break things on purpose, then figure out why they broke — curiosity is my fa
 
 <div align="center">
 
-### 💭 "The best way to learn is to build."
+**💭 "The best way to learn is to build."**
 
 </div>
