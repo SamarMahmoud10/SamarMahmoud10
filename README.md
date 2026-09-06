@@ -1,16 +1,106 @@
-## Hi there 👋
+د<div align="center">
 
-<!--
-**SamarMahmoud10/SamarMahmoud10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Samar+Mahmoud;DevOps+Engineer+%7C+CI%2FCD+%26+Automation;Building+resilient%2C+self-healing+systems" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarmahmoud@email.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamarMahmoud10)
+
+</div>
+
+<br/>
+
+## 👩‍💻 About Me
+
+-  DevOps engineer in the making — I like turning manual, error-prone deploys into automated, observable pipelines.
+-  Hands-on with **Docker, GitHub Actions, Nginx, and security scanning tools** (Trivy, Hadolint) through self-built lab projects.
+-  Currently deep-diving into **Kubernetes** and infrastructure-as-code (Terraform/Ansible).
+-  I enjoy building systems that heal themselves — canary deployments, health checks, automated rollbacks.
+-  Reach me at **sm5998144@gmail.com**
+
+<br/>
+
+##  Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,githubactions,git,github,bash,python,fastapi,postgres,redis,aws&theme=dark" />
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Vault-Guard](https://github.com/SamarMahmoud10/Vault-Guard)
+Self-hosted DevSecOps API that plugs into CI/CD: lints Dockerfiles with **Hadolint**, scans dependencies for CVEs with **Trivy**, and blocks merges that fail policy — with a full audit trail in PostgreSQL and Discord alerts on failure.
+
+`FastAPI` `Docker Compose` `Trivy` `Hadolint` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔀 [Smart-Route](https://github.com/SamarMahmoud10/Smart-Route)
+Self-healing canary deployment setup: an Nginx load balancer splits traffic 90/10 between stable and canary APIs, while a Python watchdog agent watches error rates and auto-rolls-back traffic if the canary starts failing — no human needed.
+
+`Nginx` `Docker` `Python` `Canary Deployment`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [DevOps-Practice-Lab](https://github.com/SamarMahmoud10/DevOps-Practice-Lab)
+18 hand-built GitHub Actions workflows, from "hello world" to advanced patterns: matrices, reusable composite actions, OIDC auth, caching, artifacts, and live SSH debugging into runners.
+
+`GitHub Actions` `CI/CD` `Bash`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐳 [Dockerized-nginx-nodejs-redis](https://github.com/SamarMahmoud10/Dockerized-nginx-nodejs-redis)
+A load-balanced microservices stack (Nginx + 2x Node.js + Redis) with a full CI/CD pipeline: automated Jest tests, Redis mocking, and a Trivy vulnerability scan gating every build.
+
+`Docker` `Nginx` `Node.js` `Redis` `CI/CD`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 [bash-scripting-portfolio](https://github.com/SamarMahmoud10/bash-scripting-portfolio)
+A growing collection of Bash scripts for Linux system administration and automation — system health checks, log analysis, and everyday sysadmin tasks.
+
+`Bash` `Linux` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**More on the way 🚧**
+
+If you want to understand how a system works, you have to break it first.
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SamarMahmoud10&show_icons=true&theme=react&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamarMahmoud10&theme=react&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarMahmoud10&layout=compact&theme=react&hide_border=true" height="165"/>
+
+</div>
