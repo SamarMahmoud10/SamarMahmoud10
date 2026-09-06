@@ -1,4 +1,4 @@
-د<div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Samar+Mahmoud;DevOps+Engineer+%7C+CI%2FCD+%26+Automation;Building+resilient%2C+self-healing+systems" alt="Typing SVG" />
 
@@ -18,11 +18,11 @@
 -  Hands-on with **Docker, GitHub Actions, Nginx, and security scanning tools** (Trivy, Hadolint) through self-built lab projects.
 -  Currently deep-diving into **Kubernetes** and infrastructure-as-code (Terraform/Ansible).
 -  I enjoy building systems that heal themselves — canary deployments, health checks, automated rollbacks.
--  Reach me at **sm5998144@gmail.com**
+-  Reach me at **samarmahmoud@email.com**
 
 <br/>
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx,githubactions,git,github,bash,python,fastapi,postgres,redis,aws&theme=dark" />
@@ -70,7 +70,7 @@ A load-balanced microservices stack (Nginx + 2x Node.js + Redis) with a full CI/
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🧩 [bash-scripting-portfolio](https://github.com/SamarMahmoud10/bash-scripting-portfolio)
 A growing collection of Bash scripts for Linux system administration and automation — system health checks, log analysis, and everyday sysadmin tasks.
@@ -78,19 +78,16 @@ A growing collection of Bash scripts for Linux system administration and automat
 `Bash` `Linux` `Automation`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
 <div align="center">
 
 **More on the way 🚧**
-
-If you want to understand how a system works, you have to break it first.
+<br/>
+I break things on purpose, then figure out why they broke — curiosity is my favorite debugging tool.
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -99,8 +96,16 @@ If you want to understand how a system works, you have to break it first.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SamarMahmoud10&show_icons=true&theme=react&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamarMahmoud10&theme=react&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=SamarMahmoud10&theme=react&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarMahmoud10&layout=compact&theme=react&hide_border=true" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 "The best way to learn is to build."
 
 </div>
