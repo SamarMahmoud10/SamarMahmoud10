@@ -30,7 +30,7 @@
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -107,6 +107,5 @@ I break things on purpose, then figure out why they broke — curiosity is my fa
 
 <div align="center">
 
-**💭 "The best way to learn is to build."**
 
 </div>
