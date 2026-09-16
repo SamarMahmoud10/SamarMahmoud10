@@ -30,13 +30,14 @@
 
 <br/>
 
-##  Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛡️ [Vault-Guard](https://github.com/SamarMahmoud10/Vault-Guard)
+
 Self-hosted DevSecOps API that plugs into CI/CD: lints Dockerfiles with **Hadolint**, scans dependencies for CVEs with **Trivy**, and blocks merges that fail policy — with a full audit trail in PostgreSQL and Discord alerts on failure.
 
 `FastAPI` `Docker Compose` `Trivy` `Hadolint` `PostgreSQL`
@@ -45,16 +46,19 @@ Self-hosted DevSecOps API that plugs into CI/CD: lints Dockerfiles with **Hadoli
 <td width="50%" valign="top">
 
 ### 🔀 [Smart-Route](https://github.com/SamarMahmoud10/Smart-Route)
+
 Self-healing canary deployment setup: an Nginx load balancer splits traffic 90/10 between stable and canary APIs, while a Python watchdog agent watches error rates and auto-rolls-back traffic if the canary starts failing — no human needed.
 
 `Nginx` `Docker` `Python` `Canary Deployment`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### ⚙️ [DevOps-Practice-Lab](https://github.com/SamarMahmoud10/DevOps-Practice-Lab)
+
 18 hand-built GitHub Actions workflows, from "hello world" to advanced patterns: matrices, reusable composite actions, OIDC auth, caching, artifacts, and live SSH debugging into runners.
 
 `GitHub Actions` `CI/CD` `Bash`
@@ -63,19 +67,31 @@ Self-healing canary deployment setup: an Nginx load balancer splits traffic 90/1
 <td width="50%" valign="top">
 
 ### 🐳 [Dockerized-nginx-nodejs-redis](https://github.com/SamarMahmoud10/Dockerized-nginx-nodejs-redis)
+
 A load-balanced microservices stack (Nginx + 2x Node.js + Redis) with a full CI/CD pipeline: automated Jest tests, Redis mocking, and a Trivy vulnerability scan gating every build.
 
 `Docker` `Nginx` `Node.js` `Redis` `CI/CD`
 
 </td>
 </tr>
+
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 🧩 [bash-scripting-portfolio](https://github.com/SamarMahmoud10/bash-scripting-portfolio)
+
 A growing collection of Bash scripts for Linux system administration and automation — system health checks, log analysis, and everyday sysadmin tasks.
 
 `Bash` `Linux` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ [AWS-TRACK](https://github.com/SamarMahmoud10/AWS-TRACK)
+
+Structured AWS learning repository covering cloud fundamentals, compute, networking, storage, databases, security, governance, billing, and core AWS services — with visual summaries, comparison tables, mind maps, and exam-focused notes.
+
+`AWS` `Cloud Computing` `EC2` `VPC` `S3` `IAM`
 
 </td>
 </tr>
@@ -85,6 +101,7 @@ A growing collection of Bash scripts for Linux system administration and automat
 
 **More on the way 🚧**
 <br/>
+
 I break things on purpose, then figure out why they broke — curiosity is my favorite debugging tool.
 
 </div>
